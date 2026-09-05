@@ -220,6 +220,6 @@ It is a small project designed to demonstrate desktop application development wi
 <a href="https://github.com/fazilmemmedzade">Github</a>
 <a href="https://fazilmemmedzade.github.io/Portfolio">Portfolio</a>
 
----
+## 📸 Screenshots
 
 <img src="https://github.com/fazilmemmedzade/Temperature_Transducer/blob/main/Annotation%202026-06-30%2008371333.png" alt="Honey Degrees" width="1000"/>
